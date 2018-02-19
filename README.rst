@@ -39,7 +39,7 @@ Run a Google search and fetch the individual results (full HTML and text content
 
 Pass ``num_results`` to the search method to set the maximum number of results. 
 
-``SearchReponse.total`` gives the total number of results on Google.
+``response.total`` gives the total number of results on Google.
 
 Credits
 ---------
